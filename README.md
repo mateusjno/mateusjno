@@ -22,6 +22,13 @@ Tenho facilidade em aprender e me adaptar a novas tecnologias além de gostar de
 - Gosto de Futebol, F1 e MMA.
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjno&layout=compact&theme=tokyonight)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=mateusjno&show_icons=true&theme=radical)]()
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateusjno&theme=dracula&hide_border=true)]()
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mateusjno&theme=react-dark&hide_border=true)]()
+
+
 ## 📫 Contato
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mjno/)
