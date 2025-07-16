@@ -13,10 +13,9 @@ Olá eu me chamo Mateus, sou de Ibiúna-SP e atualmente estou cursando, Sistemas
 ## 🧠 Sobre mim
 
 - Curioso por natureza, apaixonado por aprender e otimizar processos.
-- Fã de jogos como **Call of Duty**, **Yu-Gi-Oh!**, **Fallout**, **Dark Souls**.
-- Fã de F1, Futebol, MMA
 - Costumo passar meu tempo livre com minha família, jogando jogos digitais, aprendendo sobre tecnologia e estudando sobre coisas aleatórias na internet.
-
+- Fã de jogos como **Call of Duty**, **Yu-Gi-Oh!**, **Dark Souls**.
+- Gosto de Futebol, F1 e MMA.
 ---
 
 ## 📫 Contato
