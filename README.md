@@ -2,9 +2,6 @@
 
 Olá eu me chamo Mateus, sou de Ibiúna-SP e atualmente estou cursando, Sistemas para Internet na FATEC de São Roque, meu foco atual é QA e Tecnologias Web.
 Na minha jornada no mundo da tecnologia já tive contato com várias como JavaScript(JS), Python, HTML5, CSS, T-SQL, Java, C#, C, PHP, Arduino, Linux e Windows Server. 
-Desde cedo possuo interesse em qualquer tipo de tecnologia, a partir dos 11 anos já criava blogs por diversão e hospedava servidores pequenos de jogos online.
-Relacionado aos meus interesses e gosto por tecnologia, eu adoro a ideia de sistemas embarcados e de como o software e hardware podem ser otimizados para alcançar o ápice de sua performance, a criação de interfaces também sempre me chamou atenção, entender como otimizar o tempo das pessoas com tarefas do dia a dia através da tecnologia é uma arte para mim.
-Tenho facilidade em aprender e me adaptar a novas tecnologias além de gostar de trabalhar em grupo me comunicar e aprender com os outros.
 
 ---
 
