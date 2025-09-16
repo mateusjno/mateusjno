@@ -1,14 +1,14 @@
 # 👨‍💻 Mateus Jesus
 
 Olá eu me chamo Mateus, sou de Ibiúna-SP e atualmente estou cursando, Sistemas para Internet na FATEC de São Roque, meu foco atual é QA e Tecnologias Web.
-Na minha jornada no mundo da tecnologia já tive contato com várias como JavaScript(JS), Python, HTML5, CSS, T-SQL, Java, C#, C, PHP, Arduino, Linux e Windows Server. 
+Na minha jornada no mundo da tecnologia já tive contato com várias como JavaScript(JS), Python, HTML5, CSS3, T-SQL, SQL, Java, C#, C, PHP, Dart, Arduino, Linux e Windows Server. 
 
 ---
 
 ## 🚀 Tecnologias que estudo e uso
 
-- HTML5, CSS3, JavaScript
-- SQL
+- HTML5, CSS3, JavaScript, Dart, Python, SQL 
+- Flutter, Django, MySQL 
 - Git & GitHub
 
 ## 🧠 Sobre mim
