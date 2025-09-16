@@ -14,7 +14,7 @@ Na minha jornada no mundo da tecnologia já tive contato com várias como JavaSc
 ## 🧠 Sobre mim
 
 - Curioso por natureza, apaixonado por aprender e otimizar processos.
-- Costumo passar meu tempo livre com minha família, jogando jogos digitais, lendo ou assistindo e aprendendo sobre novas tecnologia e estudando sobre coisas aleatórias na internet.
+- Costumo passar meu tempo livre com minha família, jogando jogos digitais, lendo ou assistindo e aprendendo sobre novas tecnologias.
 - Fã de jogos como **Call of Duty**, **Yu-Gi-Oh!**, **Dark Souls**.
 - Gosto de Futebol e Fórmula 1.
 ---
